@@ -1,0 +1,9 @@
+sklearn.datasets.load_iris()
+	petal_length vs petal_width
+	sepal_length vs sepal_width
+
+sklearn.datasets.load_wine()
+	alcohol vs malic_acid
+	ash vs alcalinity_of_acid
+	flavanoids vs nonflavanoids_phenols
+	color_intensity vs hue
